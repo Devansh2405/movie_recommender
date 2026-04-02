@@ -3,8 +3,7 @@
 A content-based movie recommendation engine built using TF-IDF vectorization and cosine similarity on the TMDB 5000 Movies dataset.
 
 ## 🔗 Live Demo
-[Click here to try it][(https://your-app-link.streamlit.app](https://movierecommender-e9qkwf62pk58vxunctkdvq.streamlit.app/)) ← replace after deployment
-
+[Click here to try it][(https://your-app-link.streamlit.app](https://movierecommender-e9qkwf62pk58vxunctkdvq.streamlit.app/))
 ## 🛠️ Tech Stack
 - Python
 - Scikit-learn (TF-IDF + Cosine Similarity)
